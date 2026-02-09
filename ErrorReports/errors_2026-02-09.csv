@@ -1,3 +1,0 @@
-job_id,job_name,timestamp,error_type,error_message,status
-N/A,New Job,2026-02-09T09:26:55Z,JobNotFound,Job not found in workspace,NOT_FOUND
-247667064659313,Job1,2026-02-09T09:23:22Z,MultiTaskFailure,Multi-task job with 2 tasks failed. Failed task(s): Job1, Job1. The Databricks Jobs API did not return detailed error messages for these tasks. Please check the Databricks UI run page for details.,FAILED
