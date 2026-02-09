@@ -1,0 +1,2 @@
+job_id,job_name,timestamp,error_type,error_message,status
+,N/A,2026-02-09T17:33:56Z,JobNotFound,Job not found in workspace,NOT FOUND
