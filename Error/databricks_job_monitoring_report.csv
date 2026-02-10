@@ -1,0 +1,2 @@
+Job_Id,Job_Name,Timestamp (UTC),Status,Error_Details
+N/A,New Job,2026-02-10 16:40:09,NOT_FOUND,Job not found in Databricks workspace - verify job name and permissions
