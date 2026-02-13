@@ -1,0 +1,1 @@
+Excel workbook containing: 1) Summary sheet: Job1 failure pattern, job not found for 'New Job', daily aggregate (all failed), 2) Details sheet: 5 failed runs for Job1 (date, status, duration, run URL, error summary). Formatting: autosized columns, clear headers, warning banner for missing jobs and failed runs.
