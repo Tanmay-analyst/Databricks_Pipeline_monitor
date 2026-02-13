@@ -1,0 +1,4 @@
+Job ID,Job Name,Status,Start Time,End Time,Duration (min),Triggered By
+12345,Data_Import,Success,2024-06-01 08:00,2024-06-01 08:10,10,Automated Scheduler
+12346,Data_Validation,Failed,2024-06-01 09:00,2024-06-01 09:05,5,Automated Scheduler
+12347,Data_Export,Success,2024-06-01 10:00,2024-06-01 10:12,12,User: analyst1
