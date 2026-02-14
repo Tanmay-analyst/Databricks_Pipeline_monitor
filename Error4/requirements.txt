@@ -1,0 +1,14 @@
+# Python dependencies for Pipeline 30-Day Trend Report Generator
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Excel file generation and manipulation
+openpyxl>=3.1.0
+
+# Optional: For enhanced Excel features
+xlsxwriter>=3.0.0
+
+# Optional: For Databricks API integration
+requests>=2.28.0
