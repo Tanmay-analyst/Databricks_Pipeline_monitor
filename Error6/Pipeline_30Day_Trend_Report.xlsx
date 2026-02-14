@@ -1,9 +1,0 @@
-<base64-encoded Excel file with the following structure:>
-
-- Data sheet (tblData): 30 days of realistic sample data for Job1 and other Databricks jobs, with varied owners, durations, statuses (Success/Failed), error codes, etc., covering all required columns.
-- Metrics sheet: Formulas using structured references to tblData for daily aggregates (TotalJobs, Successes, Failures, AvgDurationSec, P95DurationSec, SuccessRate).
-- Config sheet: Thresholds for Failures, SuccessRate, P95DurationSec, with descriptions.
-- Report sheet: KPIs (Total Jobs, Successes, Failures, Success Rate, Max Daily Jobs, Avg Duration, P95 Duration), line and column charts as specified, print area set, fit-to-width.
-- README sheet: Instructions on updating data, refreshing metrics/charts, using thresholds, and exporting.
-- All formulas, conditional formatting, and table names as per requirements.
-- All number formats, shading, and usability features as described.
